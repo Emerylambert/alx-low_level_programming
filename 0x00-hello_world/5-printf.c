@@ -2,7 +2,7 @@
 
 /**
  * main - Print a string
- * Description: prints exactly with proper grammar, but the outcome is a piece of art,
+ * Description: prints exactly with proper grammar
  * Return: 0
  */
 
