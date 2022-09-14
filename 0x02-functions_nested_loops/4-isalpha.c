@@ -3,7 +3,7 @@ include "main.h"
 /**
  * _isalpha - Entry point
  * @c: the integer value it receives
- * Description:  a function that checks for alphabetic character
+ * Description: a function that checks for alphabetic character
  * Return: 1 if true. 0 if false
  */
 
