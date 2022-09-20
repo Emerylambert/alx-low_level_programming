@@ -5,7 +5,7 @@
  * print_array - print `n` elements of an array of integers
  * @a: int type array pointer
  * @n: int type integer
- * Description: a function that prints n elements of an array of integers, followed by a new line
+ * Description: Numbers must be separated by comma and a space
  * Numbers should be displayed in the same order they are stored in array.
  * You can only use _putchar to print.
  */
